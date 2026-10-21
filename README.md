@@ -67,11 +67,11 @@ The table below compiles leading commercial and SaaS ecommerce solutions, sorted
 ## 🌟 Open-Source GitHub Projects
 
 Explore the most popular self-hosted, headless, and framework-based open-source ecommerce repositories.  
-**Sorted strictly by GitHub Star Count (Descending):**
+**Sorted strictly by GitHub Stars_Count (Descending):**
 
 ---
 
-### 1. [Medusa](https://github.com/medusajs/medusa) [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)
+### 1. [Medusa](https://github.com/medusajs/medusa) [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)
 - **Tech Stack:** Node.js, TypeScript, Next.js, PostgreSQL, Redis
 - **License:** MIT License
 - **Key Features:** Fast-growing open-source alternative to Shopify. Provides modular digital commerce primitives (products, multi-region carts, orders, customer groups, fulfillment, swap/claims) with full customization via plugins, workflows, and Next.js starter storefronts.
@@ -79,7 +79,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 2. [Bagisto](https://github.com/bagisto/bagisto) [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)
+### 2. [Bagisto](https://github.com/bagisto/bagisto) [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)
 - **Tech Stack:** PHP, Laravel, Vue.js, MySQL
 - **License:** Open Software License (OSL 3.0)
 - **Key Features:** Comprehensive Laravel-based ecommerce framework featuring multi-channel inventory, multi-currency, multi-locale, built-in marketplace extensions, PWA capabilities, and headless REST/GraphQL APIs capable of handling 10M+ SKUs.
@@ -87,7 +87,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 3. [Saleor](https://github.com/saleor/saleor) [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)
+### 3. [Saleor](https://github.com/saleor/saleor) [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)
 - **Tech Stack:** Python, Django, GraphQL, React, PostgreSQL
 - **License:** BSD 3-Clause License
 - **Key Features:** High-performance, composable, headless commerce engine driven exclusively by GraphQL. Ships with a React-based administrative dashboard, webhooks, multichannel capabilities, and a global multi-currency checkout system.
@@ -95,7 +95,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 4. [Spree Commerce](https://github.com/spree/spree) [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)
+### 4. [Spree Commerce](https://github.com/spree/spree) [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)
 - **Tech Stack:** Ruby on Rails, Next.js / React, PostgreSQL
 - **License:** BSD 3-Clause License
 - **Key Features:** Battle-tested open-source platform offering complete DTC, B2B, and multi-vendor marketplace capabilities. Modern versions include REST/GraphQL APIs, TypeScript SDKs, and ready-to-deploy Next.js storefronts with zero platform fees.
@@ -103,7 +103,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 5. [Reaction Commerce](https://github.com/reactioncommerce/reaction) [![GitHub stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers)
+### 5. [Reaction Commerce](https://github.com/reactioncommerce/reaction) [![GitHub_Stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers)
 - **Tech Stack:** Node.js, GraphQL, MongoDB, Docker, Kubernetes
 - **License:** GPL-3.0 License
 - **Key Features:** Real-time, event-driven headless commerce API built on a microservices foundation. Enables independent scaling of cart, order, and catalog services for high-throughput enterprises.
@@ -111,7 +111,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 6. [Magento Open Source](https://github.com/magento/magento2) [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)
+### 6. [Magento Open Source](https://github.com/magento/magento2) [![GitHub_Stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)
 - **Tech Stack:** PHP, Symfony components, MariaDB/MySQL, Elasticsearch/OpenSearch
 - **License:** Open Software License (OSL 3.0)
 - **Key Features:** The self-hosted, community edition of Adobe Commerce. Boasts the world’s largest third-party plugin and theme ecosystem, granular catalog management, multi-site architecture, and extensive agency support.
@@ -119,7 +119,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 7. [Vue Storefront / Alokai](https://github.com/vuestorefront/vue-storefront) [![GitHub stars](https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=social&color=white)](https://github.com/vuestorefront/vue-storefront/stargazers)
+### 7. [Vue Storefront / Alokai](https://github.com/vuestorefront/vue-storefront) [![GitHub_Stars](https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=social&color=white)](https://github.com/vuestorefront/vue-storefront/stargazers)
 - **Tech Stack:** TypeScript, Vue.js, Nuxt.js, React, Next.js
 - **License:** MIT License
 - **Key Features:** Frontend as a Service (FaaS) and open-source PWA framework for composable commerce. Integrates out-of-the-box with backends like commercetools, Magento, BigCommerce, Shopify, and SAP Commerce Cloud.
@@ -127,7 +127,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 8. [WooCommerce](https://github.com/woocommerce/woocommerce) [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)
+### 8. [WooCommerce](https://github.com/woocommerce/woocommerce) [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)
 - **Tech Stack:** PHP, WordPress, MySQL, React
 - **License:** GNU General Public License (GPLv3)
 - **Key Features:** The most widely adopted open-source shopping cart in the world. Directly turns any WordPress installation into a full-featured ecommerce store with thousands of extensions, payment gateways, and themes.
@@ -135,7 +135,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 9. [nopCommerce](https://github.com/nopSolutions/nopCommerce) [![GitHub stars](https://img.shields.io/github/stars/nopSolutions/nopCommerce?style=social&color=white)](https://github.com/nopSolutions/nopCommerce/stargazers)
+### 9. [nopCommerce](https://github.com/nopSolutions/nopCommerce) [![GitHub_Stars](https://img.shields.io/github/stars/nopSolutions/nopCommerce?style=social&color=white)](https://github.com/nopSolutions/nopCommerce/stargazers)
 - **Tech Stack:** ASP.NET Core, C#, MS SQL Server / PostgreSQL / MySQL
 - **License:** nopCommerce Public License (NPL)
 - **Key Features:** Leading open-source Microsoft ASP.NET Core ecommerce platform. Offers out-of-the-box multi-store, multi-vendor marketplace, warehouse management, and enterprise B2B features with clean modular architecture.
@@ -143,7 +143,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 10. [PrestaShop](https://github.com/PrestaShop/PrestaShop) [![GitHub stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)
+### 10. [PrestaShop](https://github.com/PrestaShop/PrestaShop) [![GitHub_Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)
 - **Tech Stack:** PHP, Symfony, MySQL
 - **License:** Open Software License (OSL 3.0)
 - **Key Features:** Established European ecommerce platform with a comprehensive back-office management console, internationalization tools, multi-shop capabilities, and an active community add-ons marketplace.
@@ -151,7 +151,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 11. [Aimeos Laravel](https://github.com/aimeos/aimeos-laravel) [![GitHub stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers)
+### 11. [Aimeos Laravel](https://github.com/aimeos/aimeos-laravel) [![GitHub_Stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers)
 - **Tech Stack:** PHP, Laravel, MySQL / PostgreSQL
 - **License:** LGPLv3
 - **Key Features:** Ultra-fast, high-performance PHP/Laravel ecommerce package capable of processing 100,000+ orders per day and scaling to 1 billion products (#gigacommerce) with sub-20ms rendering times.
@@ -159,7 +159,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 12. [Sylius](https://github.com/Sylius/Sylius) [![GitHub stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)
+### 12. [Sylius](https://github.com/Sylius/Sylius) [![GitHub_Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)
 - **Tech Stack:** PHP, Symfony, API Platform, PostgreSQL / MySQL
 - **License:** MIT License
 - **Key Features:** Modern, developer-friendly ecommerce framework built purely on Symfony and API Platform. Clean architectural separation with 100% test coverage, native promotions engine, and modular headless REST/GraphQL APIs.
@@ -167,7 +167,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 13. [Vendure](https://github.com/vendurehq/vendure) [![GitHub stars](https://img.shields.io/github/stars/vendurehq/vendure?style=social&color=white)](https://github.com/vendurehq/vendure/stargazers)
+### 13. [Vendure](https://github.com/vendurehq/vendure) [![GitHub_Stars](https://img.shields.io/github/stars/vendurehq/vendure?style=social&color=white)](https://github.com/vendurehq/vendure/stargazers)
 - **Tech Stack:** TypeScript, Node.js, NestJS, GraphQL, SQLite / PostgreSQL / MariaDB
 - **License:** MIT License
 - **Key Features:** Headless commerce framework built with TypeScript and NestJS. Emphasizes exceptional developer experience with end-to-end type safety, GraphQL APIs, and a customizable Angular/React admin interface.
@@ -175,7 +175,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 14. [OpenCart](https://github.com/opencart/opencart) [![GitHub stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)
+### 14. [OpenCart](https://github.com/opencart/opencart) [![GitHub_Stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)
 - **Tech Stack:** PHP, MySQL
 - **License:** GNU General Public License (GPLv3)
 - **Key Features:** Lightweight, easy-to-install standalone open-source shopping cart with straightforward admin functionality, multi-currency support, order management, and thousands of affordable plugins.
@@ -183,7 +183,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 15. [Solidus](https://github.com/solidusio/solidus) [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)
+### 15. [Solidus](https://github.com/solidusio/solidus) [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)
 - **Tech Stack:** Ruby on Rails, PostgreSQL
 - **License:** BSD 3-Clause License
 - **Key Features:** Community-driven fork of Spree Commerce focused on stability, security, clean code architecture, and high-volume enterprise compliance. Includes full REST APIs and headless support.
@@ -191,7 +191,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 16. [Shopware 6](https://github.com/shopware/shopware) [![GitHub stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)
+### 16. [Shopware 6](https://github.com/shopware/shopware) [![GitHub_Stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)
 - **Tech Stack:** PHP, Symfony, Vue.js, MySQL
 - **License:** MIT License (Core)
 - **Key Features:** Modern, API-first European commerce platform. Features a flexible drag-and-drop Shopping Experiences CMS, rule builder for pricing and shipping, and an app-store ecosystem.
@@ -199,7 +199,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 17. [Shuup](https://github.com/shuup/shuup) [![GitHub stars](https://img.shields.io/github/stars/shuup/shuup?style=social&color=white)](https://github.com/shuup/shuup/stargazers)
+### 17. [Shuup](https://github.com/shuup/shuup) [![GitHub_Stars](https://img.shields.io/github/stars/shuup/shuup?style=social&color=white)](https://github.com/shuup/shuup/stargazers)
 - **Tech Stack:** Python, Django, PostgreSQL
 - **License:** Open Source (OSL 3.0)
 - **Key Features:** Flexible Python/Django ecommerce platform engineered specifically for complex multi-vendor marketplaces, single and multi-tenant configurations, and custom B2B buying rules.
@@ -207,7 +207,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 18. [Drupal Commerce](https://github.com/drupalcommerce/commerce) [![GitHub stars](https://img.shields.io/github/stars/drupalcommerce/commerce?style=social&color=white)](https://github.com/drupalcommerce/commerce/stargazers)
+### 18. [Drupal Commerce](https://github.com/drupalcommerce/commerce) [![GitHub_Stars](https://img.shields.io/github/stars/drupalcommerce/commerce?style=social&color=white)](https://github.com/drupalcommerce/commerce/stargazers)
 - **Tech Stack:** PHP, Drupal, Symfony, MySQL
 - **License:** GPL-2.0 License
 - **Key Features:** Deeply integrated commerce framework for Drupal. Bridges the gap between complex enterprise content management (CMS) and transactional commerce workflows.
@@ -215,7 +215,7 @@ Explore the most popular self-hosted, headless, and framework-based open-source 
 
 ---
 
-### 19. [OroCommerce](https://github.com/oroinc/orocommerce) [![GitHub stars](https://img.shields.io/github/stars/oroinc/orocommerce?style=social&color=white)](https://github.com/oroinc/orocommerce/stargazers)
+### 19. [OroCommerce](https://github.com/oroinc/orocommerce) [![GitHub_Stars](https://img.shields.io/github/stars/oroinc/orocommerce?style=social&color=white)](https://github.com/oroinc/orocommerce/stargazers)
 - **Tech Stack:** PHP, Symfony, PostgreSQL / MySQL
 - **License:** ORO Public License
 - **Key Features:** Open-source digital commerce platform built from the ground up specifically for B2B merchants, wholesalers, manufacturers, and distributors. Includes integrated B2B CRM and CPQ capabilities.
@@ -241,7 +241,7 @@ We welcome contributions from the digital commerce developer community!
 2. **Create** a feature branch: `git checkout -b feature/add-new-platform`.
 3. **Add or update** entries in `README.md` following the existing format:
    - For SaaS products: Include platform name, company scale (valuation/revenue), starting tier price, and specific free tier/trial limits.
-   - For open-source repos: Include tech stack, license, GitHub star badge (`style=social&color=white`), and targeted use case.
+   - For open-source repos: Include tech stack, license, GitHub Stars_Badge (`style=social&color=white`), and targeted use case.
 4. **Submit a Pull Request** with a concise description of why the tool qualifies for inclusion.
 
 ⭐ **If you find this directory valuable, please star this repository!**
