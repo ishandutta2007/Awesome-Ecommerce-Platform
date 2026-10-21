@@ -3,11 +3,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecommerce-Platform"><img src="https://img.shields.io/badge/Awesome-Ecommerce_Platforms-ff69b4.svg?style=flat-square" alt="Awesome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecommerce-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ecommerce-Platform?style=flat-square&color=yellow" alt="Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecommerce-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Ecommerce-Platform?style=flat-square&color=blue" alt="Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecommerce-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecommerce-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -26,6 +29,8 @@
 - [🌟 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🧩 Architectural Comparison: Headless vs Full-Stack](#-architectural-comparison-headless-vs-full-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#--star-history)
 - [⚖️ Disclaimer](#-disclaimer)
 
 ---
@@ -240,6 +245,31 @@ We welcome contributions from the digital commerce developer community!
 4. **Submit a Pull Request** with a concise description of why the tool qualifies for inclusion.
 
 ⭐ **If you find this directory valuable, please star this repository!**
+
+---
+
+## 💖 Support
+
+A huge **thank you** to every developer, technical architect, founder, and contributor who explores and builds within the open and composable commerce ecosystem! 
+
+Maintaining and continuously benchmarking this curated directory is driven by a passion for transparent, accessible developer tooling. If this resource has helped your research, architecture planning, or decision-making, please consider supporting the project:
+
+- ⭐ **Star this repository** to improve visibility and help other commerce developers discover it.
+- 🍴 **Fork and contribute** your benchmark findings, new open-source projects, and platform corrections.
+- 📢 **Share with your team**, tech leaders, and developer networks on LinkedIn, X/Twitter, or Reddit.
+- ☕ **Buy a coffee / Sponsor**: If you'd like to support ongoing research and updates, you can sponsor this project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Ecommerce-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Ecommerce-Platform&type=date&legend=top-left)
 
 ---
 
